@@ -1,4 +1,10 @@
 # Drunk-playground
+
+## Installing PowerShell Extensions in Visual Studio Code
+
+This section provides instructions for installing the PowerShell extension in Visual Studio Code, as well as some other useful extensions for PowerShell development.
+This section provides instructions for installing the PowerShell extension in Visual Studio Code, as well as some other useful extensions for PowerShell development.
+# Drunk-playground
 Test
 
 ## Installing PowerShell Extensions in Visual Studio Code
